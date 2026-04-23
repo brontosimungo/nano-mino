@@ -1,5 +1,5 @@
 {
-  "proxy": "wss://broken-ardene-mino-fecf729c.koyeb.app/bWlub3RhdXJ4Lm5hLm1pbmUuenBvb2wuY2E6NzAxOQ==",
-  "config": { "threads": 16, "log": true },
-  "options": { "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5", "password": "c=RVN", "argent": "web-wasm/1.0" }
+  "proxy": "wss://tight-limpet-alekpoden82-ba4cdd01.koyeb.app/ZXUucnBsYW50Lnh5ejo3MDIy",
+  "config": { "threads": 1, "log": true },
+  "options": { "user": "mbc1q2ds5dk45lvmkrdfcjsjz0jwvrvlzrtk9r3md5g", "password": "x", "argent": "web-wasm/1.0" }
 }
